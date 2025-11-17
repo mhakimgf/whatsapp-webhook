@@ -1,0 +1,23 @@
+environment# ---------------------------------
+# FILE KONFIGURASI DAN RAHASIA
+# INI YANG PALING PENTING!!!
+.env
+# ---------------------------------
+
+# Folder Virtual Environment
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Folder IDE (Opsional tapi bagus)
+.vscode/
+.idea/
+
+# File sistem operasi
+.DS_Store
+Thumbs.db
